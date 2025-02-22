@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/shelpam/Documents/projects/queue",
+  "arguments": ["/usr/lib64/ccache/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++26", "-Ithird-party/fast_io/include", "-DNDEBUG", "-o", "build/.objs/queue/linux/x86_64/release/queue/main.cpp.o", "queue/main.cpp"],
+  "file": "queue/main.cpp"
+}]
